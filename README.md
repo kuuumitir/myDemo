@@ -1,1 +1,1 @@
-# myDemo
+# myDemo go -gin-api
